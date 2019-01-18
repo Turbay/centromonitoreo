@@ -10,7 +10,7 @@ import { Component } from '@angular/core';
 
 
 export class AppComponent {
-  title = 'CentroMonitoreo12';
+  title = 'CentroMonitoreo';
 
   functionOnWhichRedirectShouldHappen()
   { 
